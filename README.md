@@ -1,7 +1,7 @@
 # COURSE REGISTRATION SYSTEM
 
 ## CREATED BY: 
-**JADHAV KRUSHNA VISHWANATH**
+**MHETRE HARSHAL BANDU**
 
 ## COLLEGE NAME: 
 **AMRUTVAHINI COLLEGE OF ENGINEERING, SANGAMNER**
@@ -52,10 +52,7 @@ This is a **Course Registration System** built using PL/SQL. The system manages 
 ### **Triggers**
 1. **`prevent_over_enrollment`**: A trigger to block registrations when the course's maximum capacity is reached.  
 
----
-
-## **GUIDANCE**  
-**Faculty Guide**: **ANIRUDDHA GAIKWAD**  
+  
 
 ---
 
@@ -81,5 +78,11 @@ This is a **Course Registration System** built using PL/SQL. The system manages 
 ## **BENEFITS FOR USERS**  
 - **Students**: Seamless course registration experience with automated credit tracking.  
 - **Administrators**: Simplified course and student management with reliable validations.  
+
+---
+
+
+## **GUIDANCE**  
+**Faculty Guide**: **ANIRUDDHA GAIKWAD**
 
 ---
